@@ -1,3 +1,0 @@
-[submodule "docker-spark"]
-	path = docker-spark
-	url = https://github.com/actionml/docker-spark/
